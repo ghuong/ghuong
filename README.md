@@ -5,7 +5,7 @@ I graduated from the University of Waterloo in Computer Science.
 I build full-stack web apps using modern technologies like Node and React.
 
 Check out:
-- [My portfolio website](https://garyhuong.netlify.app)
+- [My portfolio website](https://garyh.netlify.app)
 - [LinkedIn: garyhuong](https://linkedin.com/in/garyhuong)
 
 <!---
